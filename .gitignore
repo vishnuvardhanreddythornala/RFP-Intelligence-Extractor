@@ -34,15 +34,11 @@ share/python-wheels/
 .installed.cfg
 *.egg
 
-# Exclude generated scripts
-generate_commits.py
 
 # OmniExtract Specific Cache & Logs
 .rfp_cache/
 logs/
 *.log
-Bid1_JSON/
-Bid2_JSON/
 
 # IDEs
 .vscode/
