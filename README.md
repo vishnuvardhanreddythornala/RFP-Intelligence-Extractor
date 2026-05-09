@@ -1,5 +1,7 @@
 # OmniExtract: Enterprise RFP Intelligence Extractor
 
+🚀 **Live Demo:** [https://omniextract.streamlit.app/](https://omniextract.streamlit.app/)
+
 OmniExtract is a high-performance, AI-powered data pipeline designed to parse, analyze, and intelligently extract highly structured JSON data from complex Government Procurement and Request for Proposal (RFP) documents. 
 
 Rather than relying on Retrieval-Augmented Generation (RAG) which often misses structured data, OmniExtract uses a robust **Parallel Map-Reduce LLM Architecture** combined with **Concept Remembering** to achieve maximum data extraction accuracy across multiple associated documents (e.g., Base RFPs and their subsequent Addendums).
